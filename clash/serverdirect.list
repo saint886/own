@@ -1,6 +1,6 @@
 # 服务器直连
 
 # Scaleway
-IP-CIDR,51.158.151.111
+IP-CIDR,51.158.151.111/24
 # 喵
 DOMAIN-SUFFIX,lindamiao.site

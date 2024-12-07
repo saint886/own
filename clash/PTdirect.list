@@ -1,5 +1,4 @@
 # PT直连列表
-
 # 十二大站
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,hdchina.org
@@ -16,7 +15,7 @@ DOMAIN-SUFFIX,keepfrds.com
 
 #特色战
 DOMAIN-SUFFIX,hddolby.com
-#飞天拉面走代理
+#飞天拉面代理 DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,kamept.com
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,ilolicon.com

@@ -9,7 +9,9 @@ DST-PORT,3389
 # Parsec的客户端和服务端
 DST-PORT,22600
 DST-PORT,22601
-#谷歌商店服务
+# Plex播放端口
+DST-PORT,32400
+# 谷歌商店服务
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com

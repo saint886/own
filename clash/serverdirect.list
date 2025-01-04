@@ -2,15 +2,28 @@
 
 # Scaleway
 IP-CIDR,51.158.151.111/24
+
 # 喵
 DOMAIN-SUFFIX,lindamiao.site
+
 # 远程桌面
 DST-PORT,3389
+
 # Parsec的客户端和服务端
 DST-PORT,22600
 DST-PORT,22601
+
 # Plex播放端口
 DST-PORT,32400
+
+# QB端口
+DST-PORT,6881
+DST-PORT,6882
+DST-PORT,505802
+
+#TR端口
+DST-PORT,51413
+
 # 谷歌商店服务
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn

@@ -1,4 +1,8 @@
 # PT直连列表
+
+# 由于部分网站Cloudflare抽风，添加了host
+# cloudflare代理
+IP-CIDR,104.16.162.211/24
 # 十二大站
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,hdchina.org

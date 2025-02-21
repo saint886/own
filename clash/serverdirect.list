@@ -30,3 +30,6 @@ DST-PORT,51413
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
+# 需要直连的PT站
+DOMAIN-SUFFIX,gazellegames.net

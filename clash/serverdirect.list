@@ -3,6 +3,10 @@
 # Scaleway
 IP-CIDR,51.158.151.111/32
 
+# PrivateTracker直连
+DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,announce
+
 # 喵
 DOMAIN-SUFFIX,lindamiao.site
 

@@ -36,14 +36,14 @@ DOMAIN-SUFFIX,gamegamept.com
 # 外站
 DOMAIN-SUFFIX,empornium.sx
 DOMAIN-SUFFIX,torrentleech.org
-DOMAIN-SUFFIX,pussytorrents.org
+#走代理 DOMAIN-SUFFIX,pussytorrents.org
 DOMAIN-SUFFIX,kufirc.com
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,iptorrents.com
 DOMAIN-SUFFIX,happyfappy.org
 DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,exoticaz.to
-DOMAIN-SUFFIX,avistaz.to
+#走代理 DOMAIN-SUFFIX,avistaz.to
 
 # PT站
 DOMAIN-SUFFIX,hdatmos.club

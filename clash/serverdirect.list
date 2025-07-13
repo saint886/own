@@ -33,10 +33,11 @@ DST-PORT,45000
 #SRC-IP-CIDR,192.168.31.11/32
 DST-PORT,55000
 
+#航司
+DOMAIN-KEYWORD,airchina
+
 # 谷歌商店服务
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
-# 需要直连的PT站
-DOMAIN-SUFFIX,gazellegames.net

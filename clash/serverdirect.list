@@ -19,6 +19,9 @@ DST-PORT,22601
 
 #todesk的服务
 DOMAIN-SUFFIX,todesk.com
+DOMAIN-SUFFIX,todesk.cn
+DOMAIN-SUFFIX,todesk.net
+DOMAIN-KEYWORD,todesk
 
 # Plex播放端口
 DST-PORT,32400

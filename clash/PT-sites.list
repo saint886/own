@@ -43,7 +43,7 @@ DOMAIN-SUFFIX,iptorrents.com
 DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,happyfappy.org
 DOMAIN-SUFFIX,filelist.io
-DOMAIN-SUFFIX,exoticaz.to
+#走代理 DOMAIN-SUFFIX,exoticaz.to
 #走代理 DOMAIN-SUFFIX,avistaz.to
 
 # PT站

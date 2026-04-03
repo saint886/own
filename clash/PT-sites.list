@@ -34,13 +34,13 @@ DOMAIN-SUFFIX,azusa.wiki
 DOMAIN-SUFFIX,gamegamept.com
 
 # 外站
-DOMAIN-SUFFIX,empornium.sx
+#走代理 DOMAIN-SUFFIX,empornium.sx
 DOMAIN-SUFFIX,torrentleech.org
 #走代理 DOMAIN-SUFFIX,pussytorrents.org
-DOMAIN-SUFFIX,kufirc.com
+#走代理 DOMAIN-SUFFIX,kufirc.com
 DOMAIN-SUFFIX,jpopsuki.eu
-DOMAIN-SUFFIX,iptorrents.com
-DOMAIN-SUFFIX,gazellegames.net
+#走代理 DOMAIN-SUFFIX,iptorrents.com
+#走代理 DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,happyfappy.org
 DOMAIN-SUFFIX,filelist.io
 #走代理 DOMAIN-SUFFIX,exoticaz.to

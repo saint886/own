@@ -17,7 +17,7 @@ DST-PORT,3389
 DST-PORT,22600
 DST-PORT,22601
 
-#todesk的服务
+# todesk的服务
 DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,todesk.cn
 DOMAIN-SUFFIX,todesk.net
@@ -32,11 +32,15 @@ DST-PORT,6881
 DST-PORT,6882
 DST-PORT,45000
 
-#TR端口
+# TR端口
 #SRC-IP-CIDR,192.168.31.11/32
 DST-PORT,55000
 
-#航司
+# Arc浏览器
+DOMAIN-SUFFIX,arc.net
+DOMAIN-SUFFIX,thebrowser.comapny
+
+# 航司
 DOMAIN-KEYWORD,airchina
 
 # 谷歌商店服务

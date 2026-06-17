@@ -1,3 +1,4 @@
+# 本列表个人使用，走代理
 # Notion
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion-status.com
@@ -6,3 +7,7 @@ DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notionusercontent.com
+
+# Arc浏览器
+DOMAIN-SUFFIX,arc.net
+DOMAIN-SUFFIX,thebrowser.comapny

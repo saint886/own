@@ -1,3 +1,4 @@
+# 本列表个人使用，走直连
 # 服务器直连
 
 # Scaleway
@@ -35,10 +36,6 @@ DST-PORT,45000
 # TR端口
 #SRC-IP-CIDR,192.168.31.11/32
 DST-PORT,55000
-
-# Arc浏览器
-DOMAIN-SUFFIX,arc.net
-DOMAIN-SUFFIX,thebrowser.comapny
 
 # 航司
 DOMAIN-KEYWORD,airchina

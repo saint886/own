@@ -10,6 +10,7 @@ DOMAIN-KEYWORD,announce
 
 # 喵
 DOMAIN-SUFFIX,lindamiao.site
+DOMAIN-SUFFIX,lindamiao.online
 
 # 远程桌面
 DST-PORT,3389

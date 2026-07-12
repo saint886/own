@@ -4,6 +4,8 @@
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,thebrowser.comapny
 
+# Cloudflare验证
+DOMAIN-SUFFIX,challenges.cloudflare.com
 
 # Notion
 DOMAIN-SUFFIX,notion-static.com

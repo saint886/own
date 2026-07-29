@@ -53,6 +53,6 @@ DOMAIN-SUFFIX,yzhouk.com
 # Anki
 DOMAIN-SUFFIX,ankiweb.net
 
-
-
+# Cloudflare验证
+DOMAIN-SUFFIX,challenges.cloudflare.com
 
